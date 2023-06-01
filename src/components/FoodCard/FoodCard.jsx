@@ -68,7 +68,7 @@ const FoodCard = ({ item }) => {
         <div className="card-actions justify-end">
           <button
             onClick={() => handleAddToCart(item)}
-            className="btn btn-outline bg-slate-100 border-0 border-b-4 border-orange-400 mt-4"
+            className="btn btn-outline bg-slate-600 border-0 border-b-4 text-white mt-4"
           >
             Add to Cart
           </button>

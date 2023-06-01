@@ -20,7 +20,7 @@ const Testimonials = () => {
     }, [])
 
     return (
-        <section className="my-20">
+        <section className="my-20 text-white">
             <SectionTitle
                 subHeading="What Our Client Say"
                 heading={'Testimonials'}
